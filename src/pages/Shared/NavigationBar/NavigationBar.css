@@ -1,0 +1,10 @@
+.nav-btn {
+    text-decoration: none;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: rgb(163, 163, 163);
+}
+
+.nav-btn:hover {
+    color: rgb(163, 163, 163);
+}

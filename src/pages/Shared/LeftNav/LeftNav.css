@@ -1,0 +1,13 @@
+#act a {
+    text-decoration: none;
+}
+
+#act a:hover {
+    color: #403F3F;
+}
+
+#act {
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: column;
+}
